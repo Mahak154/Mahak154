@@ -9,7 +9,7 @@ I am interested in Data Science, Machine Learning and real-world problem solving
 ---
 
 ## 💻 Skills
-- Languages: Python, C, C++, SQL, JavaScript  
+- Languages: Python, C, C++, SQL, JavaScript,Java  
 - Tools: Pandas, NumPy, Matplotlib, MySQL  
 - Concepts: Data Analysis, Machine Learning, Feature Engineering  
 
