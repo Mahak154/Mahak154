@@ -1,24 +1,20 @@
 # 🌌 MAHAK RATHEE
-### Senior-Grade Data Scientist | Machine Learning Pipeline Engineer | AI Practitioner
-
+### Data Scientist | Machine Learning Engineer | AI Practitioner
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%" height="8px" />
 </p>
-
 <div align="center">
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=550&lines=Data+Scientist;MLOps+Pipeline+Architect;Agentic+AI+Explorer;Statistical+Modeling+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Pipeline+Architect;AI+Research+Enthusiast;Statistical+Modeling+Expert" alt="Typing SVG" />
   </p>
-
   <p align="center">
-    <b>Engineering Scalable, Production-Ready Machine Learning Systems and Analytical Frameworks</b>
+    <b>Transforming Raw Complex Data into Production-Grade Autonomous Intelligence</b>
   </p>
-
   <p align="center">
-    <a href="mailto:mahakrathee967@gmail.com"><img src="https://img.shields.io/badge/Email-mahakrathee967%40gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a> &nbsp;
-    <a href="https://www.linkedin.com/in/mahak-rathee"><img src="https://img.shields.io/badge/LinkedIn-Mahak%20Rathee-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a> &nbsp;
-    <a href="https://leetcode.com/mahak_rathee15"><img src="https://img.shields.io/badge/LeetCode-mahak__rathee15-1a1b26?style=for-the-badge&logo=leetcode&logoColor=ff9e64" alt="LeetCode" /></a> &nbsp;
+    <a href="mailto:mahakrathee967@gmail.com"><img src="https://img.shields.io/badge/Email-mahakrathee967%40gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/mahak-rathee"><img src="https://img.shields.io/badge/LinkedIn-Mahak%20Rathee-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/mahak_rathee15"><img src="https://img.shields.io/badge/LeetCode-mahak__rathee15-1a1b26?style=for-the-badge&logo=leetcode&logoColor=ff9e64" alt="LeetCode" /></a>
     <a href="https://github.com/Mahak154"><img src="https://img.shields.io/badge/GitHub-Mahak154-1a1b26?style=for-the-badge&logo=github&logoColor=7dcfff" alt="GitHub" /></a>
   </p>
   
