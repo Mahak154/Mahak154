@@ -181,21 +181,14 @@ I am a motivated B.Tech student specializing in **Artificial Intelligence and Da
 ---
 
 ## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=Mahak154&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br>
-
 <div align="center">
   <table border="0" cellpadding="5" cellspacing="5" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mahak154&show_icons=true&theme=tokyonight&hide_border=true" alt="Mahak's GitHub Stats" width="100%" />
+         <h3> GitHub Stats </h3>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahak154&layout=compact&theme=tokyonight&hide_border=true" alt="Mahak's Top Languages" width="100%" />
+         <h3> Contribution Graph </h3>
       </td>
     </tr>
     <tr>
@@ -208,12 +201,6 @@ I am a motivated B.Tech student specializing in **Artificial Intelligence and Da
     </tr>
   </table>
 </div>
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahak154/Mahak154/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahak154/Mahak154/output/github-contribution-grid-snake.svg">
-
 </picture>
 
 ---
