@@ -201,6 +201,13 @@ I am a motivated B.Tech student specializing in **Artificial Intelligence and Da
     </tr>
   </table>
 </div>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mahak154/Mahak154/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
 </picture>
 
 ---
