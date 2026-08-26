@@ -22,7 +22,7 @@
 
 ---
 
-## ⚡ Executive Quick Facts (ATS-Optimized)
+## ⚡ Executive Quick Facts
 
 <div align="center">
   <table width="100%">
